@@ -1,6 +1,6 @@
 # Snake Game
 
-A simple snake game using opengl.
+A simple snake game using opengl. The task was completed for computer graphics course.
 
 # Demo
 
