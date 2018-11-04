@@ -1,7 +1,7 @@
 # Snake Game
 
-A simple snake game using opengl. The task was completed for computer graphics course. To play the game download SnakeGame.exe and run it. <br/>
-*Control:*<br/>
+A simple snake game using opengl. The task was completed for computer graphics course. To play the game download SnakeGame.exe and run it. <br/><br/>
+**Control:**<br/>
 ```
 Move left: press left arrow or key-A
 Move right: press right arrow or key-D
