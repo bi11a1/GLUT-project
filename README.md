@@ -8,6 +8,7 @@ Move right: press right arrow or key-D
 Move up: press up arrow or key-W
 Move down: press down arrow or key-S
 Reload game: press key-R
+Quit game: press key-Q
 ```
 
 # Demo
